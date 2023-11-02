@@ -1,7 +1,5 @@
 # 前言
 
-![https://github.com/hw10181913/docker\_practice](https://img.shields.io/github/stars/yeasy/docker\_practice.svg?style=social\&label=Stars)
-
 **v1.3.0**
 
 | 语言                                                | -                                                  |
